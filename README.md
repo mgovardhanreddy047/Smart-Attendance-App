@@ -66,8 +66,8 @@ The whole app is a single Python file (`app.py`). It starts a small local web se
 **Requirements:** Python 3.8+ and an internet connection (the front-end libraries load from CDNs). No `pip install` is needed.
 
 ```bash
-git clone https://github.com/mgovardhanreddy047/Smart-Curriculum-and-Attendance-App.git
-cd Smart-Curriculum-and-Attendance-App
+git clone https://github.com/mgovardhanreddy047/Smart-Attendance-App.git
+cd Smart-Attendance-App
 python app.py
 ```
 
