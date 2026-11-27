@@ -4,7 +4,7 @@ A web-based campus management system built for the **ICT Department, Marwadi Uni
 
 The whole app is a single Python file (`app.py`). It starts a small local web server and serves an embedded React front end.
 
-**Live demo:** <PASTE-YOUR-RENDER-OR-HOSTED-URL-HERE>
+**Live demo:** <https://smart-attendance-app-x8l7.onrender.com/>
 *(On a free hosting plan the first load can take about a minute to wake up.)*
 
 ---
